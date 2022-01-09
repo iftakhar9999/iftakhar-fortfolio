@@ -1,0 +1,25 @@
+body{
+    font-family: 'Poppins', sans-serif;
+}
+h1 {
+    font-size: 50px;
+}
+.yello {
+    color: orange;
+}
+section {
+    display: flex;
+}
+.polo img {
+    width: 500px;
+}
+.polo {
+    padding-left: 2%;
+    padding-right: 2%;
+}
+.link-button {
+    background-image: linear-gradient(orange,tomato);
+    padding: 10px 25px;
+    border-radius: 10px;
+    font-size:20px;
+}
